@@ -1,0 +1,10 @@
+[color]
+	ui = auto
+[user]
+	email = alexr@pitchfork.com
+	name = Alex Robertson
+[merge]
+	tool = vimdiff
+[core]
+	excludesfile = ~/.gitignore
+	autocrlf = input
